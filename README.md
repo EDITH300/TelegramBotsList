@@ -154,6 +154,7 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@UnoBot](https://t.me/UnoBot) -> [Source](https://github.com/jh0ker/mau_mau_bot)
  - [@UnifiedBan_bot](https://t.me/unifiedban_bot) -> [Source](https://github.com/unified-ban)
  - [@UrlProBot](https://t.me/UrlProBot) -> [Source](https://github.com/GabrielRF/telegram-urlprobot)
+ - [@U2GD_Bot](http://t.me/U2GD_Bot) -> [Source](https://github.com/ParveenBhadooOfficial/U2GD_Bot_Source)
  - [@m00dbot](https://t.me/m00dbot) -> [Source](https://github.com/dizballanze/m00dbot)
  
 ### Ruby
